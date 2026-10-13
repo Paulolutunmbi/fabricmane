@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local fabric image collection
+/assets-local/
+/fabric-import-staging/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+/.next/
