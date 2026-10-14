@@ -2,6 +2,13 @@ import { v2 as cloudinary, type UploadApiResponse } from "cloudinary";
 import { CLOUDINARY_FOLDER, requireEnv } from "./config";
 
 export function configureCloudinary(): void {
+  const url = process.env.CLOUDINARY_URL;
+  if (url) {
+    const m = url.match(/^cloudinary:\/\/([^:]+):([^@]+)@(.+)$/);
+    if (!m) throw new Error("CLOUDINARY_URL is not in the format cloudinary://API_KEY:API_SECRET@CLOUD_NAME");
+    cloudinary.config({ cloud_name: m[3], api_key: m[1], api_secret: m[2], secure: true });
+    return;
+  }
   const env = requireEnv(["CLOUDINARY_CLOUD_NAME", "CLOUDINARY_API_KEY", "CLOUDINARY_API_SECRET"]);
   cloudinary.config({
     cloud_name: env.CLOUDINARY_CLOUD_NAME,

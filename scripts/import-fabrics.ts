@@ -19,8 +19,8 @@ import { sha256File } from "./lib/hash";
 import { configureCloudinary, uploadImage } from "./lib/cloudinary";
 import { folderOf, suggestCategory } from "./lib/hints";
 import { writeReport, type FileResult, type Report } from "./lib/report";
-import { Fabric } from "../src/lib/models/Fabric";
-import { nextFabricId } from "../src/lib/models/Counter";
+import { Fabric } from "../src/lib/Fabric";
+import { nextFabricId } from "../src/lib/Counter";
 
 interface Args {
   root: string;

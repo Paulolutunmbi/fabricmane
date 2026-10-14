@@ -51,3 +51,7 @@ next-env.d.ts
 
 # Dependencies and build output
 /.next/
+
+# Add these lines to your existing .gitignore (do not replace the file)
+
+import-report.json

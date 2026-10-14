@@ -6,12 +6,16 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "import:dry": "tsx scripts/import-fabrics.ts --dry-run",
+    "import:test": "tsx scripts/import-fabrics.ts --limit 10",
+    "import": "tsx scripts/import-fabrics.ts"
   },
   "dependencies": {
     "cloudinary": "^2.11.0",
+    "dotenv": "^18.0.7",
     "groq-sdk": "^1.6.0",
-    "mongoose": "^9.11.1",
+    "mongoose": "^9.11.2",
     "next": "16.4.0",
     "react": "19.3.0",
     "react-dom": "19.3.0",
