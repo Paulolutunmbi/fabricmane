@@ -1,0 +1,559 @@
+{
+  "root": "C:\\Users\\USER\\Coding\\fabricmane\\assets-local\\fabric-import-staging",
+  "checkedAt": "2026-10-19T20:15:49.908Z",
+  "counts": {
+    "images": 1164,
+    "unique": 1069,
+    "redundant": 95,
+    "nonImage": 12,
+    "totalMB": 275
+  },
+  "problems": [
+    "Fri_Blue Cotton Cashmere_Price starts at N10k per yard-20261012T204249Z-1-001/Fri_Blue Cotton Cashmere_Price starts at N10k per yard/PHOTO-2025-11-27-10-17-56.jpg: possibly truncated JPEG (no end marker near end of file)",
+    "lace100kper5yrads/02484f11-7b1e-4311-8177-c4c412c7c3a1.jpg: possibly truncated JPEG (no end marker near end of file)",
+    "lace100kper5yrads/10c637a7-e18f-44e1-8d84-15b4a89324f0.jpg: possibly truncated JPEG (no end marker near end of file)",
+    "lace100kper5yrads/205bc844-a075-4afd-a8b3-8c2a48458623.jpg: possibly truncated JPEG (no end marker near end of file)",
+    "lace100kper5yrads/2b825809-7427-4adf-82c7-3e37f91b830e.jpg: possibly truncated JPEG (no end marker near end of file)",
+    "lace100kper5yrads/2f3022aa-1ebf-46af-9ac1-83ab2487113d.jpg: possibly truncated JPEG (no end marker near end of file)",
+    "lace100kper5yrads/462df466-7b50-4f86-83e2-d1b30146d504.jpg: possibly truncated JPEG (no end marker near end of file)",
+    "lace100kper5yrads/a049f706-1e66-4131-a390-2c354a862a3e.jpg: possibly truncated JPEG (no end marker near end of file)",
+    "lace100kper5yrads/f3ad384b-5daa-4ddb-990f-a0bb6a9de664.jpg: possibly truncated JPEG (no end marker near end of file)",
+    "Tue_New brocade damask_79k for 5yards-20261013T065319Z-1-001/Tue_New brocade damask_79k for 5yards/WhatsApp Image 2026-03-27 at 02.50.24.jpeg: possibly truncated JPEG (no end marker near end of file)"
+  ],
+  "warnings": [],
+  "duplicates": {
+    "same-product-other-copy": [
+      [
+        "drive-download-20261013T072322Z-1-001/Fri_/WhatsApp Image 2026-08-02 at 15.22.02 (1).jpeg",
+        "Fri_/WhatsApp Image 2026-08-02 at 15.22.02 (1).jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Fri_/WhatsApp Image 2026-08-02 at 15.22.02.jpeg",
+        "Fri_/WhatsApp Image 2026-08-02 at 15.22.02.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Fri_/WhatsApp Image 2026-08-02 at 15.22.09.jpeg",
+        "Fri_/WhatsApp Image 2026-08-02 at 15.22.09.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Fri_/WhatsApp Image 2026-08-02 at 15.22.10 (2).jpeg",
+        "Fri_/WhatsApp Image 2026-08-02 at 15.22.10 (2).jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Fri_/WhatsApp Image 2026-08-02 at 15.22.11.jpeg",
+        "Fri_/WhatsApp Image 2026-08-02 at 15.22.11.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.17.jpeg",
+        "Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.17.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.19.jpeg",
+        "Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.19.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.20.jpeg",
+        "Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.20.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.22.jpeg",
+        "Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.22.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.23.jpeg",
+        "Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.23.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.25.jpeg",
+        "Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.25.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.35.jpeg",
+        "Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.35.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.40.jpeg",
+        "Mon_Aqueous milk silk lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.08.40.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.22.jpeg",
+        "Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.22.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.23.jpeg",
+        "Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.23.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.25.jpeg",
+        "Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.25.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.27.jpeg",
+        "Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.27.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.29.jpeg",
+        "Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.29.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.34.jpeg",
+        "Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.34.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.37.jpeg",
+        "Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.37.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.39.jpeg",
+        "Sat_Aqueous small-flower polyester lace_N129000-5yards/WhatsApp Image 2026-07-24 at 11.09.39.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.00.jpeg",
+        "Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.00.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.01.jpeg",
+        "Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.01.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.03.jpeg",
+        "Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.03.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.05.jpeg",
+        "Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.05.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.07.jpeg",
+        "Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.07.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.12.jpeg",
+        "Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.12.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.16.jpeg",
+        "Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.16.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.18.jpeg",
+        "Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.18.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.20.jpeg",
+        "Sun_Aqueous sequinned embroidered fabric_N139000-5yards/WhatsApp Image 2026-07-26 at 02.40.20.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.55.55.jpeg",
+        "Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.55.55.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.55.58.jpeg",
+        "Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.55.58.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.56.00.jpeg",
+        "Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.56.00.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.56.04.jpeg",
+        "Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.56.04.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.56.07.jpeg",
+        "Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.56.07.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.56.09.jpeg",
+        "Thur_Aqueous 3D floral lace_N199000-5yards/WhatsApp Image 2026-07-25 at 12.56.09.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.44.jpeg",
+        "Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.44.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.45.jpeg",
+        "Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.45.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.47.jpeg",
+        "Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.47.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.48.jpeg",
+        "Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.48.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.50.jpeg",
+        "Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.50.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.52.jpeg",
+        "Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.52.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.57.jpeg",
+        "Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.57.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.59.jpeg",
+        "Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.56.59.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.57.04.jpeg",
+        "Tue_Aqueous unique style lace_N119000-5yards/WhatsApp Image 2026-07-25 at 12.57.04.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Wed_/WhatsApp Image 2026-08-02 at 15.22.03.jpeg",
+        "Wed_/WhatsApp Image 2026-08-02 at 15.22.03.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Wed_/WhatsApp Image 2026-08-02 at 15.22.05.jpeg",
+        "Wed_/WhatsApp Image 2026-08-02 at 15.22.05.jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Wed_/WhatsApp Image 2026-08-02 at 15.22.09 (1).jpeg",
+        "Wed_/WhatsApp Image 2026-08-02 at 15.22.09 (1).jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Wed_/WhatsApp Image 2026-08-02 at 15.22.14 (2).jpeg",
+        "Wed_/WhatsApp Image 2026-08-02 at 15.22.14 (2).jpeg"
+      ],
+      [
+        "drive-download-20261013T072322Z-1-001/Wed_/WhatsApp Image 2026-08-02 at 15.22.20.jpeg",
+        "Wed_/WhatsApp Image 2026-08-02 at 15.22.20.jpeg"
+      ],
+      [
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-36.jpg",
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards-20261012T204059Z-1-001/Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-36.jpg"
+      ],
+      [
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-39.jpg",
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards-20261012T204059Z-1-001/Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-39.jpg"
+      ],
+      [
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-42.jpg",
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards-20261012T204059Z-1-001/Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-42.jpg"
+      ],
+      [
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-44.jpg",
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards-20261012T204059Z-1-001/Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-44.jpg"
+      ],
+      [
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-46.jpg",
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards-20261012T204059Z-1-001/Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-46.jpg"
+      ],
+      [
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-48.jpg",
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards-20261012T204059Z-1-001/Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-48.jpg"
+      ],
+      [
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-51.jpg",
+        "Fri_ Presidential Cotton Polish lace_162,000 for 5yards-20261012T204059Z-1-001/Fri_ Presidential Cotton Polish lace_162,000 for 5yards/PHOTO-2026-01-20-12-39-51.jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/Edited/IMG-20260201-WA0011(1).jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/Edited/IMG-20260201-WA0011(1).jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-48(1).jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-48(1).jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-50(1).jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-50(1).jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-52.jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-52.jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-54(1).jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-54(1).jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-56(1).jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-56(1).jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-57(1).jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-38-57(1).jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-39-00.jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/Edited/PHOTO-2026-01-23-11-39-00.jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-48.jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-48.jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-50.jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-50.jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-52.jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-52.jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-54.jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-54.jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-56.jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-56.jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-57.jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-38-57.jpg"
+      ],
+      [
+        "Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-39-00.jpg",
+        "Sun_ Cotton damask brocade_67,500 for 5yards-20261012T204111Z-1-001/Sun_ Cotton damask brocade_67,500 for 5yards/PHOTO-2026-01-23-11-39-00.jpg"
+      ],
+      [
+        "too long/Edited/IMG-20260417-WA0181.jpg",
+        "too long/too long/Edited/IMG-20260417-WA0181.jpg"
+      ],
+      [
+        "too long/Edited/PHOTO-2026-02-04-01-42-51(1).jpg",
+        "too long/too long/Edited/PHOTO-2026-02-04-01-42-51(1).jpg"
+      ],
+      [
+        "too long/Edited/PHOTO-2026-02-04-01-42-53(1).jpg",
+        "too long/too long/Edited/PHOTO-2026-02-04-01-42-53(1).jpg"
+      ],
+      [
+        "too long/Edited/PHOTO-2026-02-04-01-42-55(1).jpg",
+        "too long/too long/Edited/PHOTO-2026-02-04-01-42-55(1).jpg"
+      ],
+      [
+        "too long/Edited/PHOTO-2026-02-04-01-42-57(1).jpg",
+        "too long/too long/Edited/PHOTO-2026-02-04-01-42-57(1).jpg"
+      ],
+      [
+        "too long/Edited/PHOTO-2026-02-04-01-42-59(1).jpg",
+        "too long/too long/Edited/PHOTO-2026-02-04-01-42-59(1).jpg"
+      ],
+      [
+        "too long/Edited/PHOTO-2026-02-04-01-43-02(1).jpg",
+        "too long/too long/Edited/PHOTO-2026-02-04-01-43-02(1).jpg"
+      ],
+      [
+        "too long/Edited/PHOTO-2026-02-04-01-43-04(1).jpg",
+        "too long/too long/Edited/PHOTO-2026-02-04-01-43-04(1).jpg"
+      ],
+      [
+        "too long/Edited/PHOTO-2026-02-04-01-43-06(1).jpg",
+        "too long/too long/Edited/PHOTO-2026-02-04-01-43-06(1).jpg"
+      ],
+      [
+        "too long/PHOTO-2026-02-04-01-42-51.jpg",
+        "too long/too long/PHOTO-2026-02-04-01-42-51.jpg"
+      ],
+      [
+        "too long/PHOTO-2026-02-04-01-42-53.jpg",
+        "too long/too long/PHOTO-2026-02-04-01-42-53.jpg"
+      ],
+      [
+        "too long/PHOTO-2026-02-04-01-42-55.jpg",
+        "too long/too long/PHOTO-2026-02-04-01-42-55.jpg"
+      ],
+      [
+        "too long/PHOTO-2026-02-04-01-42-57.jpg",
+        "too long/too long/PHOTO-2026-02-04-01-42-57.jpg"
+      ],
+      [
+        "too long/PHOTO-2026-02-04-01-42-59.jpg",
+        "too long/too long/PHOTO-2026-02-04-01-42-59.jpg"
+      ],
+      [
+        "too long/PHOTO-2026-02-04-01-43-02.jpg",
+        "too long/too long/PHOTO-2026-02-04-01-43-02.jpg"
+      ],
+      [
+        "too long/PHOTO-2026-02-04-01-43-04.jpg",
+        "too long/too long/PHOTO-2026-02-04-01-43-04.jpg"
+      ],
+      [
+        "too long/PHOTO-2026-02-04-01-43-06.jpg",
+        "too long/too long/PHOTO-2026-02-04-01-43-06.jpg"
+      ]
+    ],
+    "same-folder": [
+      [
+        "Sun_Silk_60k for 4yards-20261012T204541Z-1-001/Sun_Silk_60k for 4yards/PHOTO-2025-12-14-14-08-49.jpg",
+        "Sun_Silk_60k for 4yards-20261012T204541Z-1-001/Sun_Silk_60k for 4yards/PHOTO-2025-12-14-14-37-47.jpg"
+      ],
+      [
+        "Sun_Silk_60k for 4yards-20261012T204541Z-1-001/Sun_Silk_60k for 4yards/PHOTO-2025-12-14-14-08-51(1).jpg",
+        "Sun_Silk_60k for 4yards-20261012T204541Z-1-001/Sun_Silk_60k for 4yards/PHOTO-2025-12-14-14-37-47(1).jpg"
+      ]
+    ],
+    "cross-product": [
+      [
+        "drive-download-20261013T071801Z-1-001/Fri_Premium wool_99k-4yards/WhatsApp Image 2026-07-14 at 10.35.40 (3).jpeg",
+        "Yard-20261013T071551Z-1-001/Sun_Range of Gold-Brown Cashmere wool starting from N9.99k-Yard/WhatsApp Image 2026-07-14 at 10.35.40 (3).jpeg"
+      ],
+      [
+        "drive-download-20261013T071902Z-1-001/Mon_Premium wool_99k-4yards/WhatsApp Image 2026-07-14 at 10.35.42 (3).jpeg",
+        "Yard-20261013T071551Z-1-001/Sun_Range of Gold-Brown Cashmere wool starting from N9.99k-Yard/WhatsApp Image 2026-07-14 at 10.35.42 (3).jpeg"
+      ],
+      [
+        "drive-download-20261013T071902Z-1-001/Wed_Premium wool_99k-4yards/WhatsApp Image 2026-07-14 at 10.35.42.jpeg",
+        "Yard-20261013T071551Z-1-001/Sun_Range of Gold-Brown Cashmere wool starting from N9.99k-Yard/WhatsApp Image 2026-07-14 at 10.35.42.jpeg"
+      ],
+      [
+        "drive-download-20261013T072124Z-1-001/Fri_Premium wool_99k-4yards/WhatsApp Image 2026-07-14 at 10.35.51.jpeg",
+        "Yard-20261013T071551Z-1-001/Sun_Range of Gold-Brown Cashmere wool starting from N9.99k-Yard/WhatsApp Image 2026-07-14 at 10.35.51.jpeg"
+      ]
+    ]
+  },
+  "edited": {
+    "total": 70,
+    "withOriginal": 61
+  },
+  "folderFlags": [
+    {
+      "folder": "customers pic",
+      "images": 17,
+      "note": "looks like customer screenshots, not a fabric product"
+    },
+    {
+      "folder": "Fri_",
+      "images": 19,
+      "note": "no product name (weekday prefix only)"
+    },
+    {
+      "folder": "Wed_",
+      "images": 19,
+      "note": "no product name (weekday prefix only)"
+    },
+    {
+      "folder": "Mon_",
+      "images": 4,
+      "note": "no product name (weekday prefix only)"
+    },
+    {
+      "folder": "Fri_Men’s fabric_No need to state price_",
+      "images": 8,
+      "note": "folder says not to state a price"
+    },
+    {
+      "folder": "Sat_Glazed Quality Wax_N60k_give away price_Feb only",
+      "images": 11,
+      "note": "time-limited promo wording; do not publish its price as current"
+    },
+    {
+      "folder": "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set",
+      "images": 12,
+      "note": "internal instruction inside the folder name"
+    }
+  ],
+  "comparison": {
+    "oldImageFiles": 1168,
+    "oldWouldImport": 1090,
+    "oldDuplicates": 78,
+    "oldSkipped": 12,
+    "missing": [
+      "Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards-20261013T071102Z-1-001/Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards/WhatsApp Image 2026-05-10 at 02.41.04.jpeg",
+      "Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards-20261013T071102Z-1-001/Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards/WhatsApp Image 2026-05-10 at 02.41.06.jpeg",
+      "Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards-20261013T071102Z-1-001/Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards/WhatsApp Image 2026-05-10 at 02.41.07.jpeg",
+      "Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards-20261013T071102Z-1-001/Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards/WhatsApp Image 2026-05-10 at 02.41.10.jpeg",
+      "Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards-20261013T071102Z-1-001/Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards/WhatsApp Image 2026-05-10 at 02.41.12.jpeg",
+      "Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards-20261013T071102Z-1-001/Fri_colourful velvet embroidered with beads and sequins lace_N164,000 for 5yards/WhatsApp Image 2026-05-10 at 02.41.15.jpeg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/Edited/IMG-20260417-WA0181.jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/Edited/PHOTO-2026-02-04-01-42-51(1).jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/Edited/PHOTO-2026-02-04-01-42-55(1).jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/Edited/PHOTO-2026-02-04-01-42-53(1).jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/Edited/PHOTO-2026-02-04-01-42-59(1).jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/Edited/PHOTO-2026-02-04-01-43-02(1).jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/Edited/PHOTO-2026-02-04-01-42-57(1).jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/Edited/PHOTO-2026-02-04-01-43-04(1).jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/Edited/PHOTO-2026-02-04-01-43-06(1).jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/PHOTO-2026-02-04-01-42-51.jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/PHOTO-2026-02-04-01-42-53.jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/PHOTO-2026-02-04-01-42-57.jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/PHOTO-2026-02-04-01-42-55.jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/PHOTO-2026-02-04-01-42-59.jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/PHOTO-2026-02-04-01-43-02.jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/PHOTO-2026-02-04-01-43-04.jpg",
+      "Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards-20261012T205752Z-1-001/Sun_ Butterfly design - beaded and sequinned  embroidered with pearl fabrics _109k for 5 yards/PHOTO-2026-02-04-01-43-06.jpg",
+      "Thur_colourful velvet embroidered with beads and sequins lace_N170,000 for 5yards-20261013T071138Z-1-001/Thur_colourful velvet embroidered with beads and sequins lace_N170,000 for 5yards/WhatsApp Image 2026-05-10 at 02.40.12.jpeg",
+      "Thur_colourful velvet embroidered with beads and sequins lace_N170,000 for 5yards-20261013T071138Z-1-001/Thur_colourful velvet embroidered with beads and sequins lace_N170,000 for 5yards/WhatsApp Image 2026-05-10 at 02.40.13.jpeg",
+      "Thur_colourful velvet embroidered with beads and sequins lace_N170,000 for 5yards-20261013T071138Z-1-001/Thur_colourful velvet embroidered with beads and sequins lace_N170,000 for 5yards/WhatsApp Image 2026-05-10 at 02.40.14.jpeg",
+      "Thur_colourful velvet embroidered with beads and sequins lace_N170,000 for 5yards-20261013T071138Z-1-001/Thur_colourful velvet embroidered with beads and sequins lace_N170,000 for 5yards/WhatsApp Image 2026-05-10 at 02.40.17.jpeg",
+      "Thur_colourful velvet embroidered with beads and sequins lace_N170,000 for 5yards-20261013T071138Z-1-001/Thur_colourful velvet embroidered with beads and sequins lace_N170,000 for 5yards/WhatsApp Image 2026-05-10 at 02.40.19.jpeg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/58ce084d-9047-4815-832a-97d21f72f6f5.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/86e04fe3-0e1f-4ec9-8b10-c53e5972f2f4.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/058f19cd-85c7-4a1c-81e1-69251a29df9b.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/88a9c06a-251a-47b9-b466-1bbb60b28979.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/2980dee7-a672-47e8-a699-948a1af7101d.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/18323222-55f2-449c-abc6-c9b48d74d520.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/b0cf414f-5320-4d4e-890d-693275f41e0a.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/b3d5dbc3-6dcd-4e1d-83d3-d9fdfe68963e.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/d7ceef3a-cc09-4d09-a25d-8f0c59d85dd9.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/d74ed1ad-e28b-471f-9d61-ca745ee8be94.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/df40dcf8-9eb3-404f-8b1e-1516283f8def.jpg",
+      "Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set-20261012T204716Z-1-001/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/f03cf4d5-c89c-4388-b511-be60a2624a27.jpg",
+      "Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards -20261013T070005Z-1-001/Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards_/PHOTO-2026-04-24-13-44-16.jpg",
+      "Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards -20261013T070005Z-1-001/Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards_/PHOTO-2026-04-24-13-44-18.jpg",
+      "Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards -20261013T070005Z-1-001/Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards_/PHOTO-2026-04-24-13-44-19.jpg",
+      "Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards -20261013T070005Z-1-001/Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards_/PHOTO-2026-04-24-13-44-21.jpg",
+      "Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards -20261013T070005Z-1-001/Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards_/PHOTO-2026-04-24-13-44-26.jpg",
+      "Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards -20261013T070005Z-1-001/Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards_/PHOTO-2026-04-24-13-44-29.jpg",
+      "Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards -20261013T070005Z-1-001/Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards_/PHOTO-2026-04-24-13-44-32.jpg",
+      "Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards -20261013T070005Z-1-001/Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards_/PHOTO-2026-04-24-13-44-34.jpg",
+      "Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards -20261013T070005Z-1-001/Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards_/PHOTO-2026-04-24-13-44-37.jpg",
+      "Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards -20261013T070005Z-1-001/Wed_ Laser cut  embroidered velvet embroidery with sequins_172,000 for 5 yards_/PHOTO-2026-04-24-13-44-41.jpg"
+    ],
+    "extra": [
+      "too long/Edited/IMG-20260417-WA0181.jpg",
+      "too long/Edited/PHOTO-2026-02-04-01-42-51(1).jpg",
+      "too long/Edited/PHOTO-2026-02-04-01-42-53(1).jpg",
+      "too long/Edited/PHOTO-2026-02-04-01-42-55(1).jpg",
+      "too long/Edited/PHOTO-2026-02-04-01-42-57(1).jpg",
+      "too long/Edited/PHOTO-2026-02-04-01-42-59(1).jpg",
+      "too long/Edited/PHOTO-2026-02-04-01-43-02(1).jpg",
+      "too long/Edited/PHOTO-2026-02-04-01-43-04(1).jpg",
+      "too long/Edited/PHOTO-2026-02-04-01-43-06(1).jpg",
+      "too long/PHOTO-2026-02-04-01-42-51.jpg",
+      "too long/PHOTO-2026-02-04-01-42-53.jpg",
+      "too long/PHOTO-2026-02-04-01-42-55.jpg",
+      "too long/PHOTO-2026-02-04-01-42-57.jpg",
+      "too long/PHOTO-2026-02-04-01-42-59.jpg",
+      "too long/PHOTO-2026-02-04-01-43-02.jpg",
+      "too long/PHOTO-2026-02-04-01-43-04.jpg",
+      "too long/PHOTO-2026-02-04-01-43-06.jpg",
+      "too long/too long/Edited/IMG-20260417-WA0181.jpg",
+      "too long/too long/Edited/PHOTO-2026-02-04-01-42-51(1).jpg",
+      "too long/too long/Edited/PHOTO-2026-02-04-01-42-53(1).jpg",
+      "too long/too long/Edited/PHOTO-2026-02-04-01-42-55(1).jpg",
+      "too long/too long/Edited/PHOTO-2026-02-04-01-42-57(1).jpg",
+      "too long/too long/Edited/PHOTO-2026-02-04-01-42-59(1).jpg",
+      "too long/too long/Edited/PHOTO-2026-02-04-01-43-02(1).jpg",
+      "too long/too long/Edited/PHOTO-2026-02-04-01-43-04(1).jpg",
+      "too long/too long/Edited/PHOTO-2026-02-04-01-43-06(1).jpg",
+      "too long/too long/PHOTO-2026-02-04-01-42-51.jpg",
+      "too long/too long/PHOTO-2026-02-04-01-42-53.jpg",
+      "too long/too long/PHOTO-2026-02-04-01-42-55.jpg",
+      "too long/too long/PHOTO-2026-02-04-01-42-57.jpg",
+      "too long/too long/PHOTO-2026-02-04-01-42-59.jpg",
+      "too long/too long/PHOTO-2026-02-04-01-43-02.jpg",
+      "too long/too long/PHOTO-2026-02-04-01-43-04.jpg",
+      "too long/too long/PHOTO-2026-02-04-01-43-06.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/058f19cd-85c7-4a1c-81e1-69251a29df9b.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/18323222-55f2-449c-abc6-c9b48d74d520.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/2980dee7-a672-47e8-a699-948a1af7101d.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/58ce084d-9047-4815-832a-97d21f72f6f5.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/86e04fe3-0e1f-4ec9-8b10-c53e5972f2f4.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/88a9c06a-251a-47b9-b466-1bbb60b28979.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/b0cf414f-5320-4d4e-890d-693275f41e0a.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/b3d5dbc3-6dcd-4e1d-83d3-d9fdfe68963e.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/d74ed1ad-e28b-471f-9d61-ca745ee8be94.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/d7ceef3a-cc09-4d09-a25d-8f0c59d85dd9.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/df40dcf8-9eb3-404f-8b1e-1516283f8def.jpg",
+      "too long 3/Tue_ Make into Video_2 Piece 3D Embroidered Wax _  Perfect Gift for the Matured & Elderly_N126k per set/f03cf4d5-c89c-4388-b511-be60a2624a27.jpg"
+    ]
+  }
+}

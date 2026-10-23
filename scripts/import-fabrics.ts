@@ -6,12 +6,22 @@
  *   npm run import -- --all            # import everything (after the test passes)
  *
  * Flags: --root <path>  --limit <n>  --concurrency <n>  --max-mb <n>  --dry-run  --all
+ *        --metadata <path>   (default ./fabric-metadata.json, made by parse-fabric-names.js)
  *
  * Safe to re-run: files already in MongoDB (matched by SHA-256) are skipped, Cloudinary
  * public IDs are derived from the hash, and a MongoDB record is only created after the
  * upload succeeds. Every imported image starts as status "needs_review".
+ *
+ * Names and prices come from fabric-metadata.json:
+ *  - new images are created with their fabric name and price;
+ *  - images imported earlier WITHOUT a name get the name and price added, but only while the
+ *    record is still untouched (status "needs_review" and empty name). Reviewed records are never changed;
+ *  - only prices written for 5 yards are saved. Prices per yard, per 4 yards or per set stay
+ *    null ("Enquire for Price") until you decide how to show them;
+ *  - images from excluded folders (customer photos) are skipped.
  */
 import path from "node:path";
+import { readFile } from "node:fs/promises";
 import mongoose from "mongoose";
 import { DEFAULT_MAX_BYTES, DEFAULT_ROOT, requireEnv } from "./lib/config";
 import { scanImages, type ScannedFile } from "./lib/scan";
@@ -29,6 +39,37 @@ interface Args {
   maxBytes: number;
   dryRun: boolean;
   all: boolean;
+  metadata: string;
+}
+
+interface FabricMeta {
+  status: "ready" | "needs-review";
+  fabric: string | null;
+  price: number | null;
+  priceUnit: string | null;
+}
+
+interface MetadataFile {
+  excludedHashes?: string[];
+  byHash?: Record<string, FabricMeta>;
+}
+
+async function loadMetadata(file: string): Promise<{ excluded: Set<string>; byHash: Record<string, FabricMeta> }> {
+  let raw: string;
+  try {
+    raw = await readFile(file, "utf8");
+  } catch {
+    throw new Error(
+      `Cannot read ${file}. Run  node parse-fabric-names.js "<staging folder>"  first, or pass --metadata <path>.`
+    );
+  }
+  const data = JSON.parse(raw) as MetadataFile;
+  return { excluded: new Set(data.excludedHashes ?? []), byHash: data.byHash ?? {} };
+}
+
+/** Only a price written for 5 yards is saved; other units stay null ("Enquire for Price"). */
+function priceFrom(meta: FabricMeta | undefined): number | null {
+  return meta && meta.price != null && meta.priceUnit === "5yards" ? meta.price : null;
 }
 
 function parseArgs(argv: string[]): Args {
@@ -50,6 +91,7 @@ function parseArgs(argv: string[]): Args {
     maxBytes: (num("--max-mb") ?? DEFAULT_MAX_BYTES / 1024 / 1024) * 1024 * 1024,
     dryRun: argv.includes("--dry-run"),
     all: argv.includes("--all"),
+    metadata: path.resolve(process.cwd(), get("--metadata") ?? "fabric-metadata.json"),
   };
 }
 
@@ -61,6 +103,9 @@ async function main(): Promise<void> {
     throw new Error("Refusing to import everything by accident. Use --limit <n> for a test batch or --all for the full import.");
   }
   if (!args.dryRun) configureCloudinary();
+
+  const meta = await loadMetadata(args.metadata);
+  console.log(`Loaded names/prices for ${Object.keys(meta.byHash).length} images from ${args.metadata}`);
 
   console.log(`Scanning ${args.root} (all subfolders)...`);
   const { files, skipped } = await scanImages(args.root);
@@ -107,11 +152,32 @@ async function main(): Promise<void> {
       if (file.bytes === 0) return push({ relPath: file.relPath, outcome: "failed", detail: "empty file" });
 
       const hash = await sha256File(file.absPath);
+      if (meta.excluded.has(hash)) {
+        return push({ relPath: file.relPath, outcome: "not_processed", detail: "excluded folder (customer photos, not a fabric)" });
+      }
       if (seenHashes.has(hash)) return push({ relPath: file.relPath, outcome: "duplicate", detail: "same image appears twice in this run" });
       seenHashes.add(hash);
 
-      const existing = await Fabric.findOne({ "images.contentHash": hash }).select("fabricId").lean();
-      if (existing) return push({ relPath: file.relPath, outcome: "duplicate", fabricId: existing.fabricId, detail: "already imported" });
+      const info = meta.byHash[hash];
+      const name = info?.fabric ?? "";
+      const price = priceFrom(info);
+
+      const existing = await Fabric.findOne({ "images.contentHash": hash }).select("fabricId name status").lean();
+      if (existing) {
+        let detail = "already imported";
+        if (name && existing.status === "needs_review" && !existing.name) {
+          if (args.dryRun) {
+            detail += "; would add name/price";
+          } else {
+            const res = await Fabric.updateOne(
+              { _id: existing._id, status: "needs_review", name: "" },
+              { $set: { name, price } }
+            );
+            if (res.modifiedCount) detail += "; name/price added";
+          }
+        }
+        return push({ relPath: file.relPath, outcome: "duplicate", fabricId: existing.fabricId, detail });
+      }
 
       if (args.limit !== null && reserved >= args.limit) {
         return push({ relPath: file.relPath, outcome: "not_processed", detail: "limit reached" });
@@ -120,13 +186,20 @@ async function main(): Promise<void> {
       report.byFolder[folder || "(root)"] = (report.byFolder[folder || "(root)"] ?? 0) + 1;
 
       if (args.dryRun) {
-        return push({ relPath: file.relPath, outcome: "would_import", suggestedCategory: category });
+        return push({
+          relPath: file.relPath,
+          outcome: "would_import",
+          suggestedCategory: category,
+          detail: name ? `${name} | ${price ?? "Enquire for Price"}` : "no name yet",
+        });
       }
 
       const upload = await uploadImage(file.absPath, hash);
       const fabricId = await nextFabricId();
       await Fabric.create({
         fabricId,
+        name,
+        price,
         status: "needs_review",
         suggestedCategory: category,
         sourceFolder: folder,
@@ -144,7 +217,7 @@ async function main(): Promise<void> {
           },
         ],
       });
-      push({ relPath: file.relPath, outcome: "imported", fabricId, suggestedCategory: category });
+      push({ relPath: file.relPath, outcome: "imported", fabricId, suggestedCategory: category, detail: name ? `${name} | ${price ?? "Enquire for Price"}` : "no name yet" });
     } catch (err) {
       push({ relPath: file.relPath, outcome: "failed", detail: err instanceof Error ? err.message : String(err) });
     }
